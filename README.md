@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4> 언젠간 만들겠지</h4>
+<h4> readme 언젠간 만들겠지</h4>
 
 <!--
 **msilot1001/msilot1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
