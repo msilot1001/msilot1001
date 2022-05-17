@@ -2,7 +2,7 @@
 
 <h4> readme 언젠간 만들겠지</h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=msilot1001&show_icons=true&theme=merko&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=msilot1001&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilot1001&langs_count=8)](https://github.com/msilot1001/github-readme-stats)
 
