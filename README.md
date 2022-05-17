@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=msilot1001&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilot1001&langs_count=8)](https://github.com/msilot1001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilot1001&langs_count=5)](https://github.com/msilot1001/github-readme-stats)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msilot1001)](https://github.com/msilot1001/github-readme-stats)
 
