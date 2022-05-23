@@ -5,14 +5,16 @@ Msilot1001
 <h3>
 👨‍🏫 Student Developer 💻
 <h4>Working on
-<br>
+<br/>
 - Discord Bot Kami
-<br>
-<a href="https://github.com/sojakstudio" target="_blank">- Sojak studio projects</a>
+<br/>
+<a href="https://github.com/sojakstudio" target="_blank">
+<img src="https://img.shields.io/badge/Sojak_Studio-github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <br/>
 <a href="https://discord.gg/RGYnR3r5XC" target="_blank">
-<img src="https://img.shields.io/badge/Sojak_Studio-discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/Sojak_Studio-discord-4374D9?style=for-the-badge&logo=discord&logoColor=white"></a>
+<br/>
 </h4>
 </h3>
 
