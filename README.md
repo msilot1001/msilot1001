@@ -11,7 +11,7 @@ Msilot1001
 <a href="https://github.com/sojakstudio" target="_blank">- Sojak studio projects</a>
 <br/>
 <a href="https://discord.gg/RGYnR3r5XC" target="_blank">
-<img src="https://img.shields.io/badge/discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Sojak_Studio-discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </h4>
 </h3>
