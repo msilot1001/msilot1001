@@ -8,7 +8,7 @@ Msilot1001
 <br>
 - Discord Bot Kami
 <br>
-<a href="https://discord.gg/RGYnR3r5XC" target=blank>- Sojak studio projects</a>
+<a href="https://discord.gg/RGYnR3r5XC" target="blank">- Sojak studio projects</a>
 
 </h4>
 </h3>
