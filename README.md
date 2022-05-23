@@ -8,8 +8,11 @@ Msilot1001
 <br>
 - Discord Bot Kami
 <br>
-<a href="https://discord.gg/RGYnR3r5XC" target="blank">- Sojak studio projects</a>
-
+<a href="https://github.com/sojakstudio" target="_blank">- Sojak studio projects</a>
+<br/>
+<a href="https://discord.gg/RGYnR3r5XC" target="_blank">
+<img src="https://img.shields.io/badge/discord-4374D9?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 </h4>
 </h3>
 
@@ -25,8 +28,13 @@ Msilot1001
 <h3>Using</h3>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
-
+  
+  
 <h3>📈 Wakatime Stats</h3>
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msilot1001)](https://github.com/msilot1001/github-readme-stats)
