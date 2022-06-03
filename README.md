@@ -25,9 +25,8 @@
   
   
   <h3>📊 My Github Stats</h3>
-  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=msilot1001&show_icons=true&theme=merko)
-  
+
   <h3>📄 Languages Used</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilot1001&langs_count=5)](https://github.com/msilot1001/github-readme-stats)
