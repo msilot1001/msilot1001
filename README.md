@@ -9,9 +9,11 @@
   👨‍🏫 Student Developer 💻
   <h4>Working on
   <br/>
-  - Discord Bot 
+  - Game Development
+  <br />
+  - Web Services
   <br/>
-  - Joint Cheif of Sojak Studio
+  - Chief Developer at Sojak Studio
   <br/>
   <a href="https://github.com/sojakstudio" target="_blank">
   <img src="https://img.shields.io/badge/Sojak_Studio-github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
