@@ -28,7 +28,7 @@
   
   <h3>📊 My Github Stats</h3>
 
-  ![GitHub stats](https://github-readme-stats-blond-sigma.vercel.app/api?username=msilot1001&show_icons=true&theme=ambient_gradient)
+  ![GitHub stats](https://github-readme-stats-blond-sigma.vercel.app/api?username=msilot1001&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
   <h3>📄 Languages Used</h3>
 
