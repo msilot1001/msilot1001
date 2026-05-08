@@ -5,25 +5,8 @@
   <h1 align=center>
   <img src='https://github.com/msilot1001/Profile/blob/master/Gamza_new3.png' style="width: 30vw; min-width: 100px;" />
 </h1>
-  <h3>
-  👨‍🏫 Student Developer 💻
-  <h4>Working on
-  <br/>
-  - Game Development
-  <br />
-  - Web Services
-  <br/>
-  - Chief Developer at Sojak Studio
-  <br/>
-  <a href="https://github.com/sojakstudio" target="_blank">
-  <img src="https://img.shields.io/badge/Sojak_Studio-github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <br/>
-  <a href="https://discord.gg/RGYnR3r5XC" target="_blank">
-  <img src="https://img.shields.io/badge/Sojak_Studio-discord-4374D9?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <br/>
-  </h4>
-  </h3>
+
+
   
   
   <h3>📊 My Github Stats</h3>
