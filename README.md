@@ -13,4 +13,5 @@
   
   <h3>📈 Wakatime Stats</h3>
   
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msilot1001)](https://github.com/msilot1001/github-readme-stats)
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
