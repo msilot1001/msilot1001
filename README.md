@@ -14,13 +14,15 @@
   <h3>📈 Wakatime Stats</h3>
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2017%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 7 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,6 +30,45 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+🌆 Daytime                132 commits         ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌃 Evening                206 commits         ████████████░░░░░░░░░░░░░   49.76 % 
+🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   105 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Thursday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Sunday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -45,5 +86,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/msilot1001/msilot1001/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:44:25 UTC
+ Last Updated on 18/05/2026 20:12:02 UTC
 <!--END_SECTION:waka-->
