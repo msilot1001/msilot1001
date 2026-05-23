@@ -28,45 +28,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-🌆 Daytime                132 commits         ████████░░░░░░░░░░░░░░░░░   31.96 % 
-🌃 Evening                206 commits         ████████████░░░░░░░░░░░░░   49.88 % 
-🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   104 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Thursday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Sunday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,5 +45,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/msilot1001/msilot1001/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:18:21 UTC
+ Last Updated on 23/05/2026 19:44:17 UTC
 <!--END_SECTION:waka-->
